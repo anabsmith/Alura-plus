@@ -145,7 +145,7 @@ body {
 }
 
 .lista__link a:active{
-    volor:purple;
+    color:purple;
 }
 
 .container__botao::hover{
