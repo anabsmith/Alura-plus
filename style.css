@@ -42,12 +42,13 @@ body {
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
-    color: var(--branco-principal) display: block;
+    color: var(--branco-principal);
+     display: block;
     text-decoration: none;
-    margin - decoration: 1em;
+    margin -bottom: 1em;
 }
 
-.botao__secundario {
+.botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
 }
@@ -87,7 +88,7 @@ body {
 }
 
 .descricao__texto{
-    color:var(--cinza-secundario)
+    color:var(--cinza-secundario);
 }
 
 .secundario__botao{
