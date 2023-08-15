@@ -14,7 +14,7 @@ body {
      color: var(--branco-principal);
       font-family: var(--fonte-principal);
        font-size:16px;
-        font-weigth: 400;
+        font-weight: 400;
 }
 
 * {
@@ -45,7 +45,7 @@ body {
     color: var(--branco-principal);
      display: block;
     text-decoration: none;
-    margin -bottom: 1em;
+    margin - bottom: 1em;
 }
 
 .botao_secundario {
